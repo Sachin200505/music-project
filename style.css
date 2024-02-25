@@ -1,0 +1,75 @@
+h1{
+    color:lightblue;
+    background-color:navy;
+    font-family:"protest revolution",serif;
+    border: 7px solid lightblue;
+    margin-left:50px;
+    margin-right:50px;
+}
+h2{
+    color:black;
+    background-color: purple;
+    font-family: "architects daughter",sans-serif;
+    border: 7px solid lightblue;
+    margin-left:150px;
+    margin-right:150px;
+}
+
+.green-text{
+    color:black;
+    background-color: #C4DFDF;
+    font-weight: bold;
+    border: 5px solid lightblue;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+.orange-text{
+    color:black;
+    background-color: gray;
+    font-weight: bold;
+    border: 5px solid lightblue;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+
+img{
+    height: 200px; width:250px;
+    border: 5px solid teal;
+    padding: 10%;
+    background-color: #D5EEBB;
+}
+.violet-text{
+    color:black;
+    background-color:#CCD3CA;
+    font-weight: bold;
+    border: 5px solid lightblue;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+
+
+.brown-text{
+    color:black;
+    background-color: beige;
+    font-weight: bold;
+    border: 5px solid lightblue;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+
+.pink-text{
+    color:black;
+    background-color:#EED3D9;
+    font-weight: bold;
+    border: 5px solid lightblue;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+html{
+    background-color:#D3CDEF;
+    text-align: center;
+    }
+    h3{
+        font-family:engagement;
+    }
+
